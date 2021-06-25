@@ -1,0 +1,43 @@
+﻿  hash.cpp
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\hash.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\Search.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\ucci.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\tools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\Search.h(584,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\Search.h(630,40): warning C4244: “=”: 从“const __int64”转换到“int”，可能丢失数据
+  main.cpp
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\Search.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\hash.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\ucci.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\tools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\Search.h(584,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\Search.h(630,40): warning C4244: “=”: 从“const __int64”转换到“int”，可能丢失数据
+  mybook.cpp
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\mybook.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\Search.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\hash.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\ucci.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\tools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\Search.h(584,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\Search.h(630,40): warning C4244: “=”: 从“const __int64”转换到“int”，可能丢失数据
+  Search.cpp
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\Search.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\Search.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\hash.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\ucci.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\tools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\Search.h(584,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\Search.h(630,40): warning C4244: “=”: 从“const __int64”转换到“int”，可能丢失数据
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\Search.cpp(259,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\Search.cpp(344,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  ucci.cpp
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\ucci.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\ucci.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\赵艺博\source\repos\ChineseChess\ChineseChess\tools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+main.obj : error LNK2019: 无法解析的外部符号 __imp___invalid_parameter，函数 "void __cdecl std::_Adjust_manually_vector_aligned(void * &,unsigned int &)" (?_Adjust_manually_vector_aligned@std@@YAXAAPAXAAI@Z) 中引用了该符号
+Search.obj : error LNK2001: 无法解析的外部符号 __imp___invalid_parameter
+main.obj : error LNK2019: 无法解析的外部符号 __imp___CrtDbgReport，函数 "void __cdecl std::_Adjust_manually_vector_aligned(void * &,unsigned int &)" (?_Adjust_manually_vector_aligned@std@@YAXAAPAXAAI@Z) 中引用了该符号
+Search.obj : error LNK2001: 无法解析的外部符号 __imp___CrtDbgReport
+C:\Users\赵艺博\source\repos\ChineseChess\Debug\ChineseChess.exe : fatal error LNK1120: 2 个无法解析的外部命令
